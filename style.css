@@ -1,0 +1,50 @@
+#stream-container {
+  margin: 0 auto;
+  width: 95%;
+}
+
+#stream-container #meta {
+  display: flex;
+  flex-direction: row;
+}
+
+#meta summary {
+  flex: 8;
+}
+
+#meta navigation {
+  flex: 2;
+}
+
+.stream-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.stream-list li {
+  margin: 15px;
+  display: flex;
+  flex-direction: row;
+  background: #DDD;
+  padding: 5px;
+  border: 1px solid #000;
+  height: 180px;
+}
+
+.stream-list img {
+  height: 110px;
+  width: 210px;
+  margin: 5px 15px 5px 5px;
+  padding: 5px;
+}
+
+.stream-list article {
+  margin: 5px 15px 5px 5px;
+  width: 100%;
+}
+
+.stream-list article h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
