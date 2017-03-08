@@ -9,7 +9,7 @@ in Ember as a test project.
 I've used Plunker instead of Git for what I sent in so it'd be easier to interact
 with. Git pages can be a tinge finnicky at times with `base_url`.
 
-https://plnkr.co/edit/ICInXlV5DbOFgrWe206m?p=preview
+https://plnkr.co/edit/19M4FuaXdvi4UAbdLBcG?p=preview
 
 Notedly I've added another field for Token, as I'd rather not get blacklisted
 from Twitch if that key ends up out in the wild west somewhere. I'll provide you
